@@ -1,0 +1,31 @@
+{
+  "name": "slimtabv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack -d --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyerchris/SlimTabV2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyerchris/SlimTabV2/issues"
+  },
+  "homepage": "https://github.com/flyerchris/SlimTabV2",
+  "devDependencies": {
+    "@types/webaudioapi": "0.0.27",
+    "@types/webmidi": "^2.0.3",
+    "css-loader": "^3.2.0",
+    "html-loader": "^0.5.5",
+    "style-loader": "^1.0.0",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.9"
+  }
+}

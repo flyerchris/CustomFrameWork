@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "outDir": "./dist/",
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "es2017",
+        "allowJs": true,
+        "sourceMap": true,
+    }
+}
